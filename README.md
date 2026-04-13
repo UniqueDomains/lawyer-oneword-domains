@@ -67,10 +67,10 @@ print(df.head())
 | only.lawyer     | available | $66.98    | —             | 110            | 46     | 4      | namecheap                    |
 | true.lawyer     | resell    | —         | —             | 86             | 52     | 4      | TLD Registrar Solutions Ltd. |
 | power.lawyer    | premium   | $1,300    | $1,300        | 98             | 62     | 5      | namecheap                    |
-| forge.lawyer    | available | $66.98    | —             | 62             | 45     | 5      | namecheap                    |
-| digital.lawyer  | resell    | —         | —             | 100            | 50     | 7      | Spaceship, Inc.              |
-| free.lawyer     | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com                     |
 | event.lawyer    | available | $66.98    | —             | 96             | 44     | 5      | namecheap                    |
+| digital.lawyer  | resell    | —         | —             | 100            | 49     | 7      | Spaceship, Inc.              |
+| free.lawyer     | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com                     |
+| forge.lawyer    | available | $66.98    | —             | 62             | 44     | 5      | namecheap                    |
 | drone.lawyer    | resell    | —         | —             | 70             | 45     | 5      | GoDaddy.com, LLC             |
 | live.lawyer     | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com                     |
 | strategy.lawyer | available | $66.98    | —             | 74             | 43     | 8      | namecheap                    |
@@ -79,10 +79,10 @@ print(df.head())
 | track.lawyer    | available | $66.98    | —             | 94             | 42     | 5      | namecheap                    |
 | shit.lawyer     | resell    | —         | —             | 64             | 43     | 4      | GoDaddy.com, LLC             |
 | good.lawyer     | premium   | $3,125    | $3,125        | 82             | 55     | 4      | name.com                     |
-| sales.lawyer    | available | $66.98    | —             | 66             | 42     | 5      | namecheap                    |
+| craft.lawyer    | available | $66.98    | —             | 70             | 42     | 5      | namecheap                    |
 | smith.lawyer    | resell    | —         | —             | 66             | 42     | 5      | Porkbun LLC                  |
 | zero.lawyer     | premium   | $250      | $250          | 112            | 53     | 4      | name.com                     |
-| craft.lawyer    | available | $66.98    | —             | 70             | 41     | 5      | namecheap                    |
+| sales.lawyer    | available | $66.98    | —             | 66             | 42     | 5      | namecheap                    |
 | field.lawyer    | resell    | —         | —             | 68             | 38     | 5      | GoDaddy.com, LLC             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
