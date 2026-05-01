@@ -1,10 +1,10 @@
-# Available .LAWYER One-Word Domains (12,077)
+# Available .LAWYER One-Word Domains (12,597)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C077%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C597%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lawyer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,077 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,597 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,077 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,597 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/lawyer`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| coins.lawyer     | available | $66.98    | —             | 56             | 41     | 5      | namecheap        |
-| superhero.lawyer | resell    | —         | —             | 84             | 23     | 9      | Spaceship, Inc.  |
-| agents.lawyer    | premium   | $3,750    | —             | 56             | 50     | 6      | name.com         |
-| matcha.lawyer    | available | $66.98    | —             | 86             | 39     | 6      | namecheap        |
-| roofs.lawyer     | resell    | —         | —             | 50             | 11     | 5      | GoDaddy.com, LLC |
-| skills.lawyer    | premium   | $3,125    | —             | 58             | 47     | 6      | name.com         |
-| lets.lawyer      | available | $66.98    | —             | 77             | 39     | 4      | namecheap        |
-| jobs.lawyer      | premium   | $3,750    | —             | 79             | 42     | 4      | name.com         |
-| WiFi.lawyer      | available | $66.98    | —             | 83             | 37     | 5      | namecheap        |
-| homes.lawyer     | premium   | $3,750    | —             | 86             | 34     | 5      | name.com         |
-| events.lawyer    | available | $66.98    | —             | 68             | 37     | 6      | namecheap        |
-| tickets.lawyer   | premium   | $3,750    | —             | 64             | 34     | 7      | name.com         |
-| aliens.lawyer    | available | $62.99    | $62.99        | 56             | 35     | 6      | namesilo         |
-| partners.lawyer  | premium   | $3,125    | —             | 61             | 32     | 8      | name.com         |
-| Cats.lawyer      | available | $66.98    | —             | 59             | 33     | 4      | namecheap        |
-| forms.lawyer     | premium   | $3,125    | —             | 54             | 28     | 5      | name.com         |
-| maps.lawyer      | available | $66.98    | —             | 56             | 31     | 4      | namecheap        |
-| has.lawyer       | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
-| rewards.lawyer   | available | $62.99    | $62.99        | 62             | 30     | 7      | namesilo         |
-| doctors.lawyer   | premium   | $3,750    | —             | 56             | 26     | 7      | name.com         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| coins.lawyer     | available | $66.98    | —             | 56             | 41     | 5      | namecheap       |
+| superhero.lawyer | resell    | —         | —             | 84             | 23     | 9      | Spaceship, Inc. |
+| agents.lawyer    | premium   | $3,750    | —             | 56             | 50     | 6      | name.com        |
+| matcha.lawyer    | available | $66.98    | —             | 86             | 39     | 6      | namecheap       |
+| skills.lawyer    | premium   | $3,125    | —             | 58             | 47     | 6      | name.com        |
+| lets.lawyer      | available | $66.98    | —             | 77             | 39     | 4      | namecheap       |
+| jobs.lawyer      | premium   | $3,750    | —             | 79             | 42     | 4      | name.com        |
+| WiFi.lawyer      | available | $66.98    | —             | 83             | 37     | 5      | namecheap       |
+| homes.lawyer     | premium   | $3,750    | —             | 86             | 34     | 5      | name.com        |
+| events.lawyer    | available | $66.98    | —             | 68             | 37     | 6      | namecheap       |
+| forms.lawyer     | premium   | $3,125    | —             | 54             | 28     | 5      | name.com        |
+| aliens.lawyer    | available | $62.99    | $62.99        | 56             | 35     | 6      | namesilo        |
+| has.lawyer       | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
+| Cats.lawyer      | available | $66.98    | —             | 59             | 33     | 4      | namecheap       |
+| doctors.lawyer   | premium   | $3,750    | —             | 56             | 26     | 7      | name.com        |
+| maps.lawyer      | available | $66.98    | —             | 56             | 31     | 4      | namecheap       |
+| pops.lawyer      | premium   | $242      | $242          | 74             | 24     | 4      | namesilo        |
+| slots.lawyer     | available | $62.99    | $62.99        | 49             | 31     | 5      | namesilo        |
+| inhouse.lawyer   | premium   | $3,125    | —             | 70             | 23     | 8      | name.com        |
+| spaces.lawyer    | available | $66.98    | —             | 54             | 30     | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,077 live domains                              |
+| 1,000-row public sample | 12,597 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
