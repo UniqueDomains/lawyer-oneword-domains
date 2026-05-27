@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lawyer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $187.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/lawyer`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | maps.lawyer      | available | $66.98    | —             | 56             | 31     | 4      | namecheap       |
 | pops.lawyer      | premium   | $242      | $242          | 74             | 24     | 4      | namesilo        |
 | slots.lawyer     | available | $62.99    | $62.99        | 49             | 31     | 5      | namesilo        |
-| inhouse.lawyer   | premium   | $3,125    | —             | 70             | 23     | 8      | name.com        |
+| inhouse.lawyer   | premium   | $3,125    | —             | 70             | 24     | 8      | name.com        |
 | spaces.lawyer    | available | $66.98    | —             | 54             | 30     | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
