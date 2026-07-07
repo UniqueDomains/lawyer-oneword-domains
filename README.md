@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .lawyer one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,600 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $187.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $233.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/lawyer`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lawyer`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LAWYER one-word domai
 
 ### Files
 
-- `lawyer.csv` — public CSV extract (1,000 rows)
-- `lawyer.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lawyer.csv`, public CSV extract (1,000 rows)
+- `lawyer.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| coins.lawyer     | available | $66.98    | —             | 56             | 41     | 5      | namecheap       |
-| superhero.lawyer | resell    | —         | —             | 84             | 23     | 9      | Spaceship, Inc. |
-| agents.lawyer    | premium   | $3,750    | —             | 56             | 50     | 6      | name.com        |
-| matcha.lawyer    | available | $66.98    | —             | 86             | 39     | 6      | namecheap       |
-| skills.lawyer    | premium   | $3,125    | —             | 58             | 47     | 6      | name.com        |
-| lets.lawyer      | available | $66.98    | —             | 77             | 39     | 4      | namecheap       |
-| jobs.lawyer      | premium   | $3,750    | —             | 79             | 42     | 4      | name.com        |
-| WiFi.lawyer      | available | $66.98    | —             | 83             | 37     | 5      | namecheap       |
-| homes.lawyer     | premium   | $3,750    | —             | 86             | 34     | 5      | name.com        |
-| events.lawyer    | available | $66.98    | —             | 68             | 37     | 6      | namecheap       |
-| forms.lawyer     | premium   | $3,125    | —             | 54             | 28     | 5      | name.com        |
-| aliens.lawyer    | available | $62.99    | $62.99        | 56             | 35     | 6      | namesilo        |
-| has.lawyer       | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
-| Cats.lawyer      | available | $66.98    | —             | 59             | 33     | 4      | namecheap       |
-| doctors.lawyer   | premium   | $3,750    | —             | 56             | 26     | 7      | name.com        |
-| maps.lawyer      | available | $66.98    | —             | 56             | 31     | 4      | namecheap       |
-| pops.lawyer      | premium   | $242      | $242          | 74             | 24     | 4      | namesilo        |
-| slots.lawyer     | available | $62.99    | $62.99        | 49             | 31     | 5      | namesilo        |
-| inhouse.lawyer   | premium   | $3,125    | —             | 70             | 24     | 8      | name.com        |
-| spaces.lawyer    | available | $66.98    | —             | 54             | 30     | 6      | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| quiet.lawyer      | available | $62.99    | $62.99        | high           | low    | 5      | namesilo         |
+| gag.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| lion.lawyer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| ana.lawyer        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| gee.lawyer        | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
+| tire.lawyer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| bug.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| icu.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| Uber.lawyer       | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| cut.lawyer        | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
+| lie.lawyer        | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
+| field.lawyer      | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| dry.lawyer        | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
+| nor.lawyer        | available | $66.98    | —             | high           | low    | 3      | namecheap        |
+| employment.lawyer | resell    | —         | —             | high           | low    | 10     | Epik LLC         |
+| fat.lawyer        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| roi.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| fun.lawyer        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| sep.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| hat.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .lawyer extension, which makes the legal signal explicit from the start. In this selection, some names are literal and service-oriented, while others are broader dictionary words or phrases such as project.lawyer, bigmoney.lawyer, dissent.lawyer, and bullet.lawyer. That makes evaluation straightforward. Start with whether the word fits a legal audience without extra explanation. Then weigh memorability against precision, and keep price discipline in view: the median ask here is $187. For founders, the best picks are easy to say and relevant on first read. For investors, the stronger candidates are the ones with clearer buyer fit and less semantic ambiguity.
+This list covers one-word .lawyer domain names across law firms, legal services, and related professional brands. With over 12,600 options and a median ask near $234, it offers a wide range of single-string names to compare by length, clarity, and pricing. Updated daily to reflect current availability.
 
-- Prefer words that still read credibly in a legal context
-- Use median ask $187 as a quick price reality check
-- Broad words can brand well but may need more explanation
-- Avoid names that create legal meaning confusion
+- 12,600+ one-word .lawyer domains in this set
+- Median ask around $234 - budget-friendly for shortlisting
+- Single-string names, no hyphens or numbers
+- Updated daily for current pricing accuracy
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
