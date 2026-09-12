@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lawyer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,219 domains · **Median ask:** $165.17 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/lawyer`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| quiet.lawyer      | available | $62.99    | $62.99        | high           | low    | 5      | namesilo         |
 | arc.lawyer        | available | $62.99    | $62.99        | medium         | medium | 3      | namesilo         |
 | lion.lawyer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | ana.lawyer        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | fun.lawyer        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | roi.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | hat.lawyer        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| sep.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
