@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lawyer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,799 domains · **Median ask:** $145.44 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/lawyer`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| quiet.lawyer      | available | $62.99    | $62.99        | high           | low    | 5      | namesilo         |
 | period.lawyer     | available | $62.99    | $62.99        | high           | low    | 6      | namesilo         |
-| cut.lawyer        | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
-| count.lawyer      | available | $62.99    | $62.99        | high           | low    | 5      | namesilo         |
 | arc.lawyer        | available | $62.99    | $62.99        | medium         | medium | 3      | namesilo         |
 | lion.lawyer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | ana.lawyer        | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
@@ -76,6 +73,7 @@ print(df.head())
 | bug.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | gee.lawyer        | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
 | uber.lawyer       | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| cut.lawyer        | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo         |
 | icu.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | field.lawyer      | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
 | dry.lawyer        | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
@@ -84,6 +82,8 @@ print(df.head())
 | fat.lawyer        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 | nor.lawyer        | available | $66.98    | —             | high           | low    | 3      | namecheap        |
 | fun.lawyer        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| roi.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| hat.lawyer        | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAWYER One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
