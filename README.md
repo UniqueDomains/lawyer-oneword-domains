@@ -1,10 +1,10 @@
-# Available .LAWYER One-Word Domains (24,010)
+# Available .LAWYER One-Word Domains (24,583)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C010%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C583%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .lawyer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,010 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,583 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,010 domains · **Median ask:** $187.49 · **High-demand under $2,500:** 12
+**Public extract:** 1,000 rows · **Live catalog:** 24,583 domains · **Median ask:** $186.93 · **High-demand under $2,500:** 14
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/lawyer`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cpu.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| acm.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | taco.lawyer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | ads.lawyer        | premium   | $500      | —             | high           | medium | 3      | name.com         |
-| hut.lawyer        | available | $65.98    | $66.98        | high           | low    | 3      | namecheap        |
+| cpu.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | robots.lawyer     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
 | alp.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| lvi.lawyer        | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
+| hut.lawyer        | available | $65.98    | $66.98        | high           | low    | 3      | namecheap        |
 | anything.lawyer   | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
 | ayr.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| nut.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| lvi.lawyer        | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
 | provincial.lawyer | resell    | —         | —             | medium         | low    | 10     | Spaceship, Inc.  |
 | ben.lawyer        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| nyt.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| nut.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | bug.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ran.lawyer        | available | $65.98    | $66.98        | high           | low    | 3      | namecheap        |
+| nyt.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | ely.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| zig.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| ran.lawyer        | available | $65.98    | $66.98        | high           | low    | 3      | namecheap        |
 | hub.lawyer        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| abbe.lawyer       | available | $62.99    | $62.99        | medium         | low    | 4      | namesilo         |
+| rms.lawyer        | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | lag.lawyer        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,010 live domains                        |
+| 1,000-row public sample | 24,583 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 12 high-demand names under $2,500          |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
